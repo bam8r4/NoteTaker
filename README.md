@@ -1,1 +1,2 @@
-NoteTaker
+This notetaker is a really basic app that allows the user to add data to a table with both a title and message associated with it. 
+In the future, the user is able to return back to the message by clicking on the title and hitting read. The form will populate with the note that was saved. 
